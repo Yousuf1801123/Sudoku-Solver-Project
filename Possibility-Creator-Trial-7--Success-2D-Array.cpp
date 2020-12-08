@@ -19,7 +19,7 @@ FAILED:
 
 using namespace std ;
 
-const int R = 2 , C = 3 ;
+const int R = 9 , C = 9 ;
 
 void print(int arr[R][C])
 {
